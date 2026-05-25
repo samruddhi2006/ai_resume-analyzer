@@ -1,1 +1,1 @@
-# ai_resume-analyzer
+# ai_resume_analyzer
